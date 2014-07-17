@@ -1,0 +1,1 @@
+Difrence of C# and .Net is .Net is Microsft Platform and C# is program langluage who can use this platform.

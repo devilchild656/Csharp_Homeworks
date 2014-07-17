@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\Homework_05\06.The_Biggest_of_Five_Numbers\bin\Debug\06.The_Biggest_of_Five_Numbers.exe.config
+C:\Users\Miroslav\Desktop\Homework_05\06.The_Biggest_of_Five_Numbers\bin\Debug\06.The_Biggest_of_Five_Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_05\06.The_Biggest_of_Five_Numbers\bin\Debug\06.The_Biggest_of_Five_Numbers.pdb
+C:\Users\Miroslav\Desktop\Homework_05\06.The_Biggest_of_Five_Numbers\obj\Debug\06.The_Biggest_of_Five_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\Homework_05\06.The_Biggest_of_Five_Numbers\obj\Debug\06.The_Biggest_of_Five_Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_05\06.The_Biggest_of_Five_Numbers\obj\Debug\06.The_Biggest_of_Five_Numbers.pdb

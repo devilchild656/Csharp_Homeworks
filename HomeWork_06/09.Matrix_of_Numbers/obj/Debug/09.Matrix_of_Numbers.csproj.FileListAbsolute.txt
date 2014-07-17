@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\09.Matrix_of_Numbers\bin\Debug\09.Matrix_of_Numbers.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\09.Matrix_of_Numbers\bin\Debug\09.Matrix_of_Numbers.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\09.Matrix_of_Numbers\bin\Debug\09.Matrix_of_Numbers.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\09.Matrix_of_Numbers\obj\Debug\09.Matrix_of_Numbers.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\09.Matrix_of_Numbers\obj\Debug\09.Matrix_of_Numbers.pdb

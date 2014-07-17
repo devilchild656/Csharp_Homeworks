@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork1\16.Print Long Sequence\bin\Debug\16.Print Long Sequence.exe.config
+C:\Users\Miroslav\Desktop\HomeWork1\16.Print Long Sequence\bin\Debug\16.Print Long Sequence.exe
+C:\Users\Miroslav\Desktop\HomeWork1\16.Print Long Sequence\bin\Debug\16.Print Long Sequence.pdb
+C:\Users\Miroslav\Desktop\HomeWork1\16.Print Long Sequence\obj\Debug\16.Print Long Sequence.exe
+C:\Users\Miroslav\Desktop\HomeWork1\16.Print Long Sequence\obj\Debug\16.Print Long Sequence.pdb

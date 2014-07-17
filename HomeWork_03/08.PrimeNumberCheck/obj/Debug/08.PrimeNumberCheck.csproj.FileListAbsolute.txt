@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork3\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+C:\Users\Miroslav\Desktop\HomeWork3\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\Miroslav\Desktop\HomeWork3\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

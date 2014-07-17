@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HomeWork1\06.Print Numbers\bin\Debug\06.Print Numbers.exe.config
+C:\Users\Miroslav\Desktop\HomeWork1\06.Print Numbers\bin\Debug\06.Print Numbers.exe
+C:\Users\Miroslav\Desktop\HomeWork1\06.Print Numbers\bin\Debug\06.Print Numbers.pdb
+C:\Users\Miroslav\Desktop\HomeWork1\06.Print Numbers\obj\Debug\06.Print Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HomeWork1\06.Print Numbers\obj\Debug\06.Print Numbers.exe
+C:\Users\Miroslav\Desktop\HomeWork1\06.Print Numbers\obj\Debug\06.Print Numbers.pdb

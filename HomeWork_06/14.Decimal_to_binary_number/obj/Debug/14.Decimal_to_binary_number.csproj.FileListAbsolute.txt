@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\14.Decimal_to_binary_number\bin\Debug\14.Decimal_to_binary_number.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\14.Decimal_to_binary_number\obj\Debug\14.Decimal_to_binary_number.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\14.Decimal_to_binary_number\bin\Debug\14.Decimal_to_binary_number.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\14.Decimal_to_binary_number\bin\Debug\14.Decimal_to_binary_number.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\14.Decimal_to_binary_number\obj\Debug\14.Decimal_to_binary_number.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\14.Decimal_to_binary_number\obj\Debug\14.Decimal_to_binary_number.pdb

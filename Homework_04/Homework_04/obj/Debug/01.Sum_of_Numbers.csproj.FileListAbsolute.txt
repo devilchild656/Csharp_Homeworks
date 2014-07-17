@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\Homework_04\Homework_04\bin\Debug\Homework_04.exe.config
+C:\Users\Miroslav\Desktop\Homework_04\Homework_04\bin\Debug\Homework_04.exe
+C:\Users\Miroslav\Desktop\Homework_04\Homework_04\bin\Debug\Homework_04.pdb
+C:\Users\Miroslav\Desktop\Homework_04\Homework_04\obj\Debug\01.Sum_of_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\Homework_04\Homework_04\obj\Debug\Homework_04.exe
+C:\Users\Miroslav\Desktop\Homework_04\Homework_04\obj\Debug\Homework_04.pdb

@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork3\13.CheckaBitatGivenPosition\bin\Debug\13.CheckaBitatGivenPosition.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\13.CheckaBitatGivenPosition\bin\Debug\13.CheckaBitatGivenPosition.exe
+C:\Users\Miroslav\Desktop\HomeWork3\13.CheckaBitatGivenPosition\bin\Debug\13.CheckaBitatGivenPosition.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\13.CheckaBitatGivenPosition\obj\Debug\13.CheckaBitatGivenPosition.exe
+C:\Users\Miroslav\Desktop\HomeWork3\13.CheckaBitatGivenPosition\obj\Debug\13.CheckaBitatGivenPosition.pdb

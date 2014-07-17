@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\16.Decimal_to_Hexadecimal_Number\bin\Debug\16.Decimal_to_Hexadecimal_Number.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\16.Decimal_to_Hexadecimal_Number\bin\Debug\16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\16.Decimal_to_Hexadecimal_Number\bin\Debug\16.Decimal_to_Hexadecimal_Number.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\16.Decimal_to_Hexadecimal_Number\obj\Debug\16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\16.Decimal_to_Hexadecimal_Number\obj\Debug\16.Decimal_to_Hexadecimal_Number.pdb

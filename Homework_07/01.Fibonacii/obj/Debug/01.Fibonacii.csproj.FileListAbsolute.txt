@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\Homework_7\01.Fibonacii\bin\Debug\01.Fibonacii.exe.config
+C:\Users\Miroslav\Desktop\Homework_7\01.Fibonacii\obj\Debug\01.Fibonacii.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\Homework_7\01.Fibonacii\bin\Debug\01.Fibonacii.exe
+C:\Users\Miroslav\Desktop\Homework_7\01.Fibonacii\bin\Debug\01.Fibonacii.pdb
+C:\Users\Miroslav\Desktop\Homework_7\01.Fibonacii\obj\Debug\01.Fibonacii.exe
+C:\Users\Miroslav\Desktop\Homework_7\01.Fibonacii\obj\Debug\01.Fibonacii.pdb

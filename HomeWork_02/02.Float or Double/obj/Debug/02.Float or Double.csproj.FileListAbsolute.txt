@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork2\02.Float or Double\bin\Debug\02.Float or Double.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\02.Float or Double\bin\Debug\02.Float or Double.exe
+C:\Users\Miroslav\Desktop\HomeWork2\02.Float or Double\bin\Debug\02.Float or Double.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\02.Float or Double\obj\Debug\02.Float or Double.exe
+C:\Users\Miroslav\Desktop\HomeWork2\02.Float or Double\obj\Debug\02.Float or Double.pdb

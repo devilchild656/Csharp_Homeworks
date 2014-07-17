@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_04\09.Sum_of_ n_Numbers\bin\Debug\09.Sum_of_ n_Numbers.exe.config
+C:\Users\Miroslav\Desktop\Homework_04\09.Sum_of_ n_Numbers\bin\Debug\09.Sum_of_ n_Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_04\09.Sum_of_ n_Numbers\bin\Debug\09.Sum_of_ n_Numbers.pdb
+C:\Users\Miroslav\Desktop\Homework_04\09.Sum_of_ n_Numbers\obj\Debug\09.Sum_of_ n_Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_04\09.Sum_of_ n_Numbers\obj\Debug\09.Sum_of_ n_Numbers.pdb

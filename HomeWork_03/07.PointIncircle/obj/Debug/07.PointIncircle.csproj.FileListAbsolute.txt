@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork3\07.PointIncircle\bin\Debug\07.PointIncircle.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\07.PointIncircle\bin\Debug\07.PointIncircle.exe
+C:\Users\Miroslav\Desktop\HomeWork3\07.PointIncircle\bin\Debug\07.PointIncircle.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\07.PointIncircle\obj\Debug\07.PointIncircle.exe
+C:\Users\Miroslav\Desktop\HomeWork3\07.PointIncircle\obj\Debug\07.PointIncircle.pdb

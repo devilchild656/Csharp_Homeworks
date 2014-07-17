@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork3\10.PointInsideaCircleOutsideofaRectangle\bin\Debug\10.PointInsideaCircleOutsideofaRectangle.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\10.PointInsideaCircleOutsideofaRectangle\bin\Debug\10.PointInsideaCircleOutsideofaRectangle.exe
+C:\Users\Miroslav\Desktop\HomeWork3\10.PointInsideaCircleOutsideofaRectangle\bin\Debug\10.PointInsideaCircleOutsideofaRectangle.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\10.PointInsideaCircleOutsideofaRectangle\obj\Debug\10.PointInsideaCircleOutsideofaRectangle.exe
+C:\Users\Miroslav\Desktop\HomeWork3\10.PointInsideaCircleOutsideofaRectangle\obj\Debug\10.PointInsideaCircleOutsideofaRectangle.pdb

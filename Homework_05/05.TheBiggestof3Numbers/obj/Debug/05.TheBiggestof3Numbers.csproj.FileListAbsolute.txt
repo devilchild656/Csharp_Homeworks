@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\Homework_05\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.exe.config
+C:\Users\Miroslav\Desktop\Homework_05\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\Homework_05\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_05\05.TheBiggestof3Numbers\bin\Debug\05.TheBiggestof3Numbers.pdb
+C:\Users\Miroslav\Desktop\Homework_05\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_05\05.TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_7\04.DatePeriod\bin\Debug\04.DatePeriod.exe.config
+C:\Users\Miroslav\Desktop\Homework_7\04.DatePeriod\bin\Debug\04.DatePeriod.exe
+C:\Users\Miroslav\Desktop\Homework_7\04.DatePeriod\bin\Debug\04.DatePeriod.pdb
+C:\Users\Miroslav\Desktop\Homework_7\04.DatePeriod\obj\Debug\04.DatePeriod.exe
+C:\Users\Miroslav\Desktop\Homework_7\04.DatePeriod\obj\Debug\04.DatePeriod.pdb

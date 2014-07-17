@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HomeWork3\14.ModifyaBitatGivenPosition\bin\Debug\14.ModifyaBitatGivenPosition.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\14.ModifyaBitatGivenPosition\bin\Debug\14.ModifyaBitatGivenPosition.exe
+C:\Users\Miroslav\Desktop\HomeWork3\14.ModifyaBitatGivenPosition\bin\Debug\14.ModifyaBitatGivenPosition.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\14.ModifyaBitatGivenPosition\obj\Debug\14.ModifyaBitatGivenPosition.exe
+C:\Users\Miroslav\Desktop\HomeWork3\14.ModifyaBitatGivenPosition\obj\Debug\14.ModifyaBitatGivenPosition.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\14.ModifyaBitatGivenPosition\obj\Debug\14.ModifyaBitatGivenPosition.csprojResolveAssemblyReference.cache

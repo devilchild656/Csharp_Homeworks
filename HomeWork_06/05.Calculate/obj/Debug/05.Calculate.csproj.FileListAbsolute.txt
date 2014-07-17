@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\05.Calculate\bin\Debug\05.Calculate.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\05.Calculate\bin\Debug\05.Calculate.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\05.Calculate\obj\Debug\05.Calculate.pdb

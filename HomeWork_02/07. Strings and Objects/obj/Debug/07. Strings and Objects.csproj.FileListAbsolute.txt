@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HomeWork2\07. Strings and Objects\bin\Debug\_07.Strings_and_Objects.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\07. Strings and Objects\bin\Debug\_07.Strings_and_Objects.exe
+C:\Users\Miroslav\Desktop\HomeWork2\07. Strings and Objects\bin\Debug\_07.Strings_and_Objects.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\07. Strings and Objects\obj\Debug\07. Strings and Objects.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HomeWork2\07. Strings and Objects\obj\Debug\_07.Strings_and_Objects.exe
+C:\Users\Miroslav\Desktop\HomeWork2\07. Strings and Objects\obj\Debug\_07.Strings_and_Objects.pdb

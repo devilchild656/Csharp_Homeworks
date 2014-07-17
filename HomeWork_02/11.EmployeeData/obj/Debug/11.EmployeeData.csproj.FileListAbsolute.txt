@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork2\11.EmployeeData\bin\Debug\11.EmployeeData.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\11.EmployeeData\bin\Debug\11.EmployeeData.exe
+C:\Users\Miroslav\Desktop\HomeWork2\11.EmployeeData\bin\Debug\11.EmployeeData.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\11.EmployeeData\obj\Debug\11.EmployeeData.exe
+C:\Users\Miroslav\Desktop\HomeWork2\11.EmployeeData\obj\Debug\11.EmployeeData.pdb

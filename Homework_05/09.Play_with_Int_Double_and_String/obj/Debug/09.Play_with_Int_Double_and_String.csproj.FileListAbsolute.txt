@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_05\09.Play_with_Int_Double_and_String\bin\Debug\09.Play_with_Int_Double_and_String.exe.config
+C:\Users\Miroslav\Desktop\Homework_05\09.Play_with_Int_Double_and_String\bin\Debug\09.Play_with_Int_Double_and_String.exe
+C:\Users\Miroslav\Desktop\Homework_05\09.Play_with_Int_Double_and_String\bin\Debug\09.Play_with_Int_Double_and_String.pdb
+C:\Users\Miroslav\Desktop\Homework_05\09.Play_with_Int_Double_and_String\obj\Debug\09.Play_with_Int_Double_and_String.exe
+C:\Users\Miroslav\Desktop\Homework_05\09.Play_with_Int_Double_and_String\obj\Debug\09.Play_with_Int_Double_and_String.pdb

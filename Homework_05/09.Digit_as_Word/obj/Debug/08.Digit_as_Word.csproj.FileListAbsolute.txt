@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_05\09.Digit_as_Word\bin\Debug\09.Digit_as_Word.exe.config
+C:\Users\Miroslav\Desktop\Homework_05\09.Digit_as_Word\bin\Debug\09.Digit_as_Word.exe
+C:\Users\Miroslav\Desktop\Homework_05\09.Digit_as_Word\bin\Debug\09.Digit_as_Word.pdb
+C:\Users\Miroslav\Desktop\Homework_05\09.Digit_as_Word\obj\Debug\09.Digit_as_Word.exe
+C:\Users\Miroslav\Desktop\Homework_05\09.Digit_as_Word\obj\Debug\09.Digit_as_Word.pdb

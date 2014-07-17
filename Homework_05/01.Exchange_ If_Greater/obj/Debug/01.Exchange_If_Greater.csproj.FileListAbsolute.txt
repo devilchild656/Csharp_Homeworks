@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\Homework_05\01.Exchange_ If_Greater\bin\Debug\01.Exchange_ If_Greater.exe.config
+C:\Users\Miroslav\Desktop\Homework_05\01.Exchange_ If_Greater\bin\Debug\01.Exchange_ If_Greater.exe
+C:\Users\Miroslav\Desktop\Homework_05\01.Exchange_ If_Greater\bin\Debug\01.Exchange_ If_Greater.pdb
+C:\Users\Miroslav\Desktop\Homework_05\01.Exchange_ If_Greater\obj\Debug\01.Exchange_If_Greater.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\Homework_05\01.Exchange_ If_Greater\obj\Debug\01.Exchange_ If_Greater.exe
+C:\Users\Miroslav\Desktop\Homework_05\01.Exchange_ If_Greater\obj\Debug\01.Exchange_ If_Greater.pdb

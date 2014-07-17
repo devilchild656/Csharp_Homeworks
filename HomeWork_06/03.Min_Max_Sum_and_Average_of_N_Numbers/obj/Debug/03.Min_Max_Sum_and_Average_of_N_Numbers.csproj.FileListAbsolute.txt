@@ -1,0 +1,11 @@
+C:\Users\Miroslav\Desktop\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\bin\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.exe.config
+C:\Users\Miroslav\Desktop\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\bin\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+C:\Users\Miroslav\Desktop\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\bin\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+C:\Users\Miroslav\Desktop\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\obj\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+C:\Users\Miroslav\Desktop\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\obj\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\bin\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\obj\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\obj\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\bin\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\bin\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\03.Min_Max_Sum_and_Average_of_N_Numbers\obj\Debug\03.Min_Max_Sum_and_Average_of_N_Numbers.csprojResolveAssemblyReference.cache

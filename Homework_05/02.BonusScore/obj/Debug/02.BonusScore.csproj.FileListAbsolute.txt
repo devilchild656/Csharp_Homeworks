@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\Homework_05\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Miroslav\Desktop\Homework_05\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Miroslav\Desktop\Homework_05\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Miroslav\Desktop\Homework_05\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Miroslav\Desktop\Homework_05\02.BonusScore\obj\Debug\02.BonusScore.pdb
+C:\Users\Miroslav\Desktop\Homework_05\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache

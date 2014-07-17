@@ -1,0 +1,5 @@
+Netbeans - Is platform for Java .For testing and write a code .
+Kate -
+Microsoft Visual Studio- is Ide platform of Microsft .
+Gedit- Is text redactor for Gnome ,Max and Microsft Windows .He can rewrite the out code from structure text.
+Eclipse-He can use for package for softwares. And the main role is for java code.

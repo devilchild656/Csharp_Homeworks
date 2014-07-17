@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_7\13.LoadTimeCalculator\bin\Debug\13.LoadTimeCalculator.exe.config
+C:\Users\Miroslav\Desktop\Homework_7\13.LoadTimeCalculator\bin\Debug\13.LoadTimeCalculator.exe
+C:\Users\Miroslav\Desktop\Homework_7\13.LoadTimeCalculator\bin\Debug\13.LoadTimeCalculator.pdb
+C:\Users\Miroslav\Desktop\Homework_7\13.LoadTimeCalculator\obj\Debug\13.LoadTimeCalculator.exe
+C:\Users\Miroslav\Desktop\Homework_7\13.LoadTimeCalculator\obj\Debug\13.LoadTimeCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\07.Calculate_N_K_secondpart\bin\Debug\07.Calculate_N_K_secondpart.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\07.Calculate_N_K_secondpart\bin\Debug\07.Calculate_N_K_secondpart.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\07.Calculate_N_K_secondpart\bin\Debug\07.Calculate_N_K_secondpart.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\07.Calculate_N_K_secondpart\obj\Debug\07.Calculate_N_K_secondpart.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\07.Calculate_N_K_secondpart\obj\Debug\07.Calculate_N_K_secondpart.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\07.Calculate_N_K_secondpart\obj\Debug\07.Calculate_N_K_secondpart.pdb

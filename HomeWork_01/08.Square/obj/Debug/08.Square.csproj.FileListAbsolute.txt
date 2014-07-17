@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork1\08.Square\bin\Debug\08.Square.exe.config
+C:\Users\Miroslav\Desktop\HomeWork1\08.Square\bin\Debug\08.Square.exe
+C:\Users\Miroslav\Desktop\HomeWork1\08.Square\bin\Debug\08.Square.pdb
+C:\Users\Miroslav\Desktop\HomeWork1\08.Square\obj\Debug\08.Square.exe
+C:\Users\Miroslav\Desktop\HomeWork1\08.Square\obj\Debug\08.Square.pdb

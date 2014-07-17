@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork1\17.Play with the Debugger\bin\Debug\17.Play with the Debugger.exe.config
+C:\Users\Miroslav\Desktop\HomeWork1\17.Play with the Debugger\bin\Debug\17.Play with the Debugger.exe
+C:\Users\Miroslav\Desktop\HomeWork1\17.Play with the Debugger\bin\Debug\17.Play with the Debugger.pdb
+C:\Users\Miroslav\Desktop\HomeWork1\17.Play with the Debugger\obj\Debug\17.Play with the Debugger.exe
+C:\Users\Miroslav\Desktop\HomeWork1\17.Play with the Debugger\obj\Debug\17.Play with the Debugger.pdb

@@ -1,0 +1,3 @@
+C:\Users\Miroslav\Desktop\Homework_7\07\bin\Debug\07.exe.config
+C:\Users\Miroslav\Desktop\Homework_7\07\obj\Debug\07.exe
+C:\Users\Miroslav\Desktop\Homework_7\07\obj\Debug\07.pdb

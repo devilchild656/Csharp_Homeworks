@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork2\08.QuotesinStrings\bin\Debug\08.QuotesinStrings.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\08.QuotesinStrings\bin\Debug\08.QuotesinStrings.exe
+C:\Users\Miroslav\Desktop\HomeWork2\08.QuotesinStrings\bin\Debug\08.QuotesinStrings.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\08.QuotesinStrings\obj\Debug\08.QuotesinStrings.exe
+C:\Users\Miroslav\Desktop\HomeWork2\08.QuotesinStrings\obj\Debug\08.QuotesinStrings.pdb

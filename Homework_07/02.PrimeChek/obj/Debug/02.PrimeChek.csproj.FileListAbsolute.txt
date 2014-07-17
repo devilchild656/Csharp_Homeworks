@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_7\02.PrimeChek\bin\Debug\02.PrimeChek.exe.config
+C:\Users\Miroslav\Desktop\Homework_7\02.PrimeChek\bin\Debug\02.PrimeChek.exe
+C:\Users\Miroslav\Desktop\Homework_7\02.PrimeChek\bin\Debug\02.PrimeChek.pdb
+C:\Users\Miroslav\Desktop\Homework_7\02.PrimeChek\obj\Debug\02.PrimeChek.exe
+C:\Users\Miroslav\Desktop\Homework_7\02.PrimeChek\obj\Debug\02.PrimeChek.pdb

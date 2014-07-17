@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_04\08.Numbers_from_1_to_n\bin\Debug\08.Numbers_from_1_to_n.exe.config
+C:\Users\Miroslav\Desktop\Homework_04\08.Numbers_from_1_to_n\bin\Debug\08.Numbers_from_1_to_n.exe
+C:\Users\Miroslav\Desktop\Homework_04\08.Numbers_from_1_to_n\bin\Debug\08.Numbers_from_1_to_n.pdb
+C:\Users\Miroslav\Desktop\Homework_04\08.Numbers_from_1_to_n\obj\Debug\08.Numbers_from_1_to_n.exe
+C:\Users\Miroslav\Desktop\Homework_04\08.Numbers_from_1_to_n\obj\Debug\08.Numbers_from_1_to_n.pdb

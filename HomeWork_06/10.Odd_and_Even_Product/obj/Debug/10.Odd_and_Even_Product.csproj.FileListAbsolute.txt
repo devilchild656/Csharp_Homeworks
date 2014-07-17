@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\10.Odd_and_Even_Product\bin\Debug\10.Odd_and_Even_Product.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\10.Odd_and_Even_Product\bin\Debug\10.Odd_and_Even_Product.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\10.Odd_and_Even_Product\bin\Debug\10.Odd_and_Even_Product.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\10.Odd_and_Even_Product\obj\Debug\10.Odd_and_Even_Product.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\10.Odd_and_Even_Product\obj\Debug\10.Odd_and_Even_Product.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\10.Odd_and_Even_Product\obj\Debug\10.Odd_and_Even_Product.pdb

@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork2\04.VariableinHexadecimalFormat\bin\Debug\04.VariableinHexadecimalFormat.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\04.VariableinHexadecimalFormat\bin\Debug\04.VariableinHexadecimalFormat.exe
+C:\Users\Miroslav\Desktop\HomeWork2\04.VariableinHexadecimalFormat\bin\Debug\04.VariableinHexadecimalFormat.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\04.VariableinHexadecimalFormat\obj\Debug\04.VariableinHexadecimalFormat.exe
+C:\Users\Miroslav\Desktop\HomeWork2\04.VariableinHexadecimalFormat\obj\Debug\04.VariableinHexadecimalFormat.pdb

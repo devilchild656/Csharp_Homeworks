@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HomeWork3\11.Bitwise\bin\Debug\11.Bitwise.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\11.Bitwise\bin\Debug\11.Bitwise.exe
+C:\Users\Miroslav\Desktop\HomeWork3\11.Bitwise\bin\Debug\11.Bitwise.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\11.Bitwise\obj\Debug\11.Bitwise.exe
+C:\Users\Miroslav\Desktop\HomeWork3\11.Bitwise\obj\Debug\11.Bitwise.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\11.Bitwise\obj\Debug\11.Bitwise.csprojResolveAssemblyReference.cache

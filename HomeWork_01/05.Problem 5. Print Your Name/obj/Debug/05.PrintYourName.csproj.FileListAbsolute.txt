@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork1\05.Problem 5. Print Your Name\bin\Debug\_05.Problem_5.Print_Your_Name.exe.config
+C:\Users\Miroslav\Desktop\HomeWork1\05.Problem 5. Print Your Name\bin\Debug\_05.Problem_5.Print_Your_Name.exe
+C:\Users\Miroslav\Desktop\HomeWork1\05.Problem 5. Print Your Name\bin\Debug\_05.Problem_5.Print_Your_Name.pdb
+C:\Users\Miroslav\Desktop\HomeWork1\05.Problem 5. Print Your Name\obj\Debug\_05.Problem_5.Print_Your_Name.exe
+C:\Users\Miroslav\Desktop\HomeWork1\05.Problem 5. Print Your Name\obj\Debug\_05.Problem_5.Print_Your_Name.pdb

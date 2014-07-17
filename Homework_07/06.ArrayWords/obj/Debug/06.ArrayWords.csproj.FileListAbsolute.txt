@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_7\06.ArrayWords\bin\Debug\06.ArrayWords.exe.config
+C:\Users\Miroslav\Desktop\Homework_7\06.ArrayWords\bin\Debug\06.ArrayWords.exe
+C:\Users\Miroslav\Desktop\Homework_7\06.ArrayWords\bin\Debug\06.ArrayWords.pdb
+C:\Users\Miroslav\Desktop\Homework_7\06.ArrayWords\obj\Debug\06.ArrayWords.exe
+C:\Users\Miroslav\Desktop\Homework_7\06.ArrayWords\obj\Debug\06.ArrayWords.pdb

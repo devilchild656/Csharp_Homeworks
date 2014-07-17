@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork3\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.exe
+C:\Users\Miroslav\Desktop\HomeWork3\05.ThirdDigitis7\bin\Debug\05.ThirdDigitis7.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\05.ThirdDigitis7\obj\Debug\05.ThirdDigitis7.exe
+C:\Users\Miroslav\Desktop\HomeWork3\05.ThirdDigitis7\obj\Debug\05.ThirdDigitis7.pdb

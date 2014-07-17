@@ -1,0 +1,12 @@
+C:\Users\Miroslav\Desktop\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\bin\Debug\02.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\Miroslav\Desktop\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\bin\Debug\02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Miroslav\Desktop\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\bin\Debug\02.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\Miroslav\Desktop\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\obj\Debug\02.Numbers_Not_Divisible_by_3_and_7.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\obj\Debug\02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Miroslav\Desktop\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\obj\Debug\02.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\bin\Debug\02.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\bin\Debug\02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\bin\Debug\02.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\obj\Debug\02.Numbers_Not_Divisible_by_3_and_7.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\obj\Debug\02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\02.Numbers_Not_Divisible_by_3_and_7\obj\Debug\02.Numbers_Not_Divisible_by_3_and_7.pdb

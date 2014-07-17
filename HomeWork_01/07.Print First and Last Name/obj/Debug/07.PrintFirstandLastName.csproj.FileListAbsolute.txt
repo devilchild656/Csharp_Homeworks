@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork1\07.Print First and Last Name\bin\Debug\07.Print First and Last Name.exe.config
+C:\Users\Miroslav\Desktop\HomeWork1\07.Print First and Last Name\bin\Debug\07.Print First and Last Name.exe
+C:\Users\Miroslav\Desktop\HomeWork1\07.Print First and Last Name\bin\Debug\07.Print First and Last Name.pdb
+C:\Users\Miroslav\Desktop\HomeWork1\07.Print First and Last Name\obj\Debug\07.Print First and Last Name.exe
+C:\Users\Miroslav\Desktop\HomeWork1\07.Print First and Last Name\obj\Debug\07.Print First and Last Name.pdb

@@ -1,0 +1,6 @@
+Most popular programming languages.
+Java-Java is programing language and platform created in 1995.He is made by Sun Microsystem.
+C-Is programing language made by Brian Kernighan and Dennis Ritchie in 1978. 
+C#-Is program language made by Microsft and he is part of the .net platform.He have average power.And he is easy for use for beginner programers .
+c++-Is Program language for Hardware platforms and drivers .
+PHP-Is program language for Server scripts he can use web server for service and make a scripts for Websites.

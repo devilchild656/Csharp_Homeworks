@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_05\03.Check_for_ a_ Play_Card\bin\Debug\03.Check_for_ a_ Play_Card.exe.config
+C:\Users\Miroslav\Desktop\Homework_05\03.Check_for_ a_ Play_Card\bin\Debug\03.Check_for_ a_ Play_Card.exe
+C:\Users\Miroslav\Desktop\Homework_05\03.Check_for_ a_ Play_Card\bin\Debug\03.Check_for_ a_ Play_Card.pdb
+C:\Users\Miroslav\Desktop\Homework_05\03.Check_for_ a_ Play_Card\obj\Debug\03.Check_for_ a_ Play_Card.exe
+C:\Users\Miroslav\Desktop\Homework_05\03.Check_for_ a_ Play_Card\obj\Debug\03.Check_for_ a_ Play_Card.pdb

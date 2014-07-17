@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork3\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Miroslav\Desktop\HomeWork3\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Miroslav\Desktop\HomeWork3\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

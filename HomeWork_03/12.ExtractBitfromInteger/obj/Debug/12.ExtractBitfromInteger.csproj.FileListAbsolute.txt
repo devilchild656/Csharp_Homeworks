@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HomeWork3\12.ExtractBitfromInteger\bin\Debug\12.ExtractBitfromInteger.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\12.ExtractBitfromInteger\bin\Debug\12.ExtractBitfromInteger.exe
+C:\Users\Miroslav\Desktop\HomeWork3\12.ExtractBitfromInteger\bin\Debug\12.ExtractBitfromInteger.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HomeWork3\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.exe
+C:\Users\Miroslav\Desktop\HomeWork3\12.ExtractBitfromInteger\obj\Debug\12.ExtractBitfromInteger.pdb

@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HomeWork3\02.GravitationontheMoon\bin\Debug\02.GravitationontheMoon.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\02.GravitationontheMoon\bin\Debug\02.GravitationontheMoon.exe
+C:\Users\Miroslav\Desktop\HomeWork3\02.GravitationontheMoon\bin\Debug\02.GravitationontheMoon.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.exe
+C:\Users\Miroslav\Desktop\HomeWork3\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\02.GravitationontheMoon\obj\Debug\02.GravitationontheMoon.csprojResolveAssemblyReference.cache

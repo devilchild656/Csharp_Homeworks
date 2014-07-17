@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HomeWork2\06.BooleanVariable\bin\Debug\06.BooleanVariable.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\06.BooleanVariable\bin\Debug\06.BooleanVariable.exe
+C:\Users\Miroslav\Desktop\HomeWork2\06.BooleanVariable\bin\Debug\06.BooleanVariable.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\06.BooleanVariable\obj\Debug\06.BooleanVariable.exe
+C:\Users\Miroslav\Desktop\HomeWork2\06.BooleanVariable\obj\Debug\06.BooleanVariable.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\06.BooleanVariable\obj\Debug\06.BooleanVariable.csprojResolveAssemblyReference.cache

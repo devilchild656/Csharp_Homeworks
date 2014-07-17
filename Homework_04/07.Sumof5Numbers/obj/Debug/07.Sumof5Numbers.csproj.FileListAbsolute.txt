@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\Homework_04\07.Sumof5Numbers\bin\Debug\07.Sumof5Numbers.exe.config
+C:\Users\Miroslav\Desktop\Homework_04\07.Sumof5Numbers\bin\Debug\07.Sumof5Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_04\07.Sumof5Numbers\bin\Debug\07.Sumof5Numbers.pdb
+C:\Users\Miroslav\Desktop\Homework_04\07.Sumof5Numbers\obj\Debug\07.Sumof5Numbers.exe
+C:\Users\Miroslav\Desktop\Homework_04\07.Sumof5Numbers\obj\Debug\07.Sumof5Numbers.pdb

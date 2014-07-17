@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork3\03.Divideby7and5\bin\Debug\03.Divideby7and5.exe.config
+C:\Users\Miroslav\Desktop\HomeWork3\03.Divideby7and5\bin\Debug\03.Divideby7and5.exe
+C:\Users\Miroslav\Desktop\HomeWork3\03.Divideby7and5\bin\Debug\03.Divideby7and5.pdb
+C:\Users\Miroslav\Desktop\HomeWork3\03.Divideby7and5\obj\Debug\03.Divideby7and5.exe
+C:\Users\Miroslav\Desktop\HomeWork3\03.Divideby7and5\obj\Debug\03.Divideby7and5.pdb

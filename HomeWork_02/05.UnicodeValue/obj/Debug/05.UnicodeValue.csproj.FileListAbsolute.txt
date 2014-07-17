@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork2\05.UnicodeValue\bin\Debug\05.UnicodeValue.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\05.UnicodeValue\bin\Debug\05.UnicodeValue.exe
+C:\Users\Miroslav\Desktop\HomeWork2\05.UnicodeValue\bin\Debug\05.UnicodeValue.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\05.UnicodeValue\obj\Debug\05.UnicodeValue.exe
+C:\Users\Miroslav\Desktop\HomeWork2\05.UnicodeValue\obj\Debug\05.UnicodeValue.pdb

@@ -1,0 +1,5 @@
+C:\Users\Miroslav\Desktop\HomeWork2\03.ComparingFloats\bin\Debug\03.ComparingFloats.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\03.ComparingFloats\bin\Debug\03.ComparingFloats.exe
+C:\Users\Miroslav\Desktop\HomeWork2\03.ComparingFloats\bin\Debug\03.ComparingFloats.pdb
+C:\Users\Miroslav\Desktop\HomeWork2\03.ComparingFloats\obj\Debug\03.ComparingFloats.exe
+C:\Users\Miroslav\Desktop\HomeWork2\03.ComparingFloats\obj\Debug\03.ComparingFloats.pdb

@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\08.Catalan Numbers\bin\Debug\08.Catalan Numbers.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\08.Catalan Numbers\obj\Debug\08.Catalan Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\08.Catalan Numbers\bin\Debug\08.Catalan Numbers.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\08.Catalan Numbers\bin\Debug\08.Catalan Numbers.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\08.Catalan Numbers\obj\Debug\08.Catalan Numbers.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\08.Catalan Numbers\obj\Debug\08.Catalan Numbers.pdb

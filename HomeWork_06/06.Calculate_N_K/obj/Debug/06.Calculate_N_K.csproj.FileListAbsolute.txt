@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\06.Calculate_N_K\bin\Debug\06.Calculate_N_K.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\06.Calculate_N_K\bin\Debug\06.Calculate_N_K.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\06.Calculate_N_K\bin\Debug\06.Calculate_N_K.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\06.Calculate_N_K\obj\Debug\06.Calculate_N_K.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\06.Calculate_N_K\obj\Debug\06.Calculate_N_K.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\06.Calculate_N_K\obj\Debug\06.Calculate_N_K.pdb

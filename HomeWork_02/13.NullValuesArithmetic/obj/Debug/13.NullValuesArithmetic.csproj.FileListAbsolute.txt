@@ -1,0 +1,2 @@
+C:\Users\Miroslav\Desktop\HomeWork2\13.NullValuesArithmetic\bin\Debug\13.NullValuesArithmetic.exe.config
+C:\Users\Miroslav\Desktop\HomeWork2\13.NullValuesArithmetic\obj\Debug\13.NullValuesArithmetic.csprojResolveAssemblyReference.cache

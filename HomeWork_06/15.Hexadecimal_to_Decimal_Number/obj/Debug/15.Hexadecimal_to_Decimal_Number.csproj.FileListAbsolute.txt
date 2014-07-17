@@ -1,0 +1,6 @@
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\15.Hexadecimal_to_Decimal_Number\bin\Debug\15.Hexadecimal_to_Decimal_Number.exe.config
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\15.Hexadecimal_to_Decimal_Number\obj\Debug\15.Hexadecimal_to_Decimal_Number.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\15.Hexadecimal_to_Decimal_Number\bin\Debug\15.Hexadecimal_to_Decimal_Number.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\15.Hexadecimal_to_Decimal_Number\bin\Debug\15.Hexadecimal_to_Decimal_Number.pdb
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\15.Hexadecimal_to_Decimal_Number\obj\Debug\15.Hexadecimal_to_Decimal_Number.exe
+C:\Users\Miroslav\Desktop\HOMEWORKS\HomeWork_06\15.Hexadecimal_to_Decimal_Number\obj\Debug\15.Hexadecimal_to_Decimal_Number.pdb
